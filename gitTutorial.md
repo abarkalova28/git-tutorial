@@ -1,4 +1,6 @@
 # This is my Git Tutorial
+
+![Screenshot](gitlogo.png)
 ## *Основные команды **GIT** (урок 1)*
 
 * *git init* - добавление репозитория
